@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.clock-logo:hover {
+  transition: transform 0.7s 0.1s ease-in-out;
+  transform: rotate(360deg);
+  color: orange;
+}
