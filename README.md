@@ -15,4 +15,5 @@ Mwaket is a  designed to prayers time .
 ### 1️⃣ Clone the Repository  
 ```bash
 git clone https://github.com/abdelrhman-arfat/mwaket.git
-cd mwaket
+npm run dev
+
