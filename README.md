@@ -1,18 +1,18 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🏫 Mwaket - College Student Community Platform  
 
-## Getting Started
+Mwaket is a  designed to prayers time .  
+
+## 🚀 Features  
+- 🕌 Prayres Time
+
+## 🛠️ Tech Stack  
+- **Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS  
 
 
+## 🏗️ Getting Started  
+``` npm run dev ```
 
+### 1️⃣ Clone the Repository  
 ```bash
-Prayesr time with timer for the next pray
-URL :https://mwaket.vercel.app
-Tools : next - redux toolkit - tailwind
-
-```
-
-
-
-
-## Deploy on Vercel
-url :mwaket.vercel.app
+git clone https://github.com/abdelrhman-arfat/mwaket.git
+cd mwaket
